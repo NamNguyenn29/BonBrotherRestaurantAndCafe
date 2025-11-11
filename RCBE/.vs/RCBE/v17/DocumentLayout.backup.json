@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\dto\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\helper\\sendmail\\implement\\mailimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\helper\\sendmail\\implement\\mailimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\helper\\sendmail\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\helper\\sendmail\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\interface\\implements\\userimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\interface\\implements\\userimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\dto\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\dto\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\rcbe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\rcbe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|e:\\csw_306_project\\bonbrotherrestaurantandcafe\\rcbe\\rcbe\\dto\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3E43982-C7F4-4148-A64B-A103BBC041E1}|RCBE\\RCBE.csproj|solutionrelative:rcbe\\dto\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +58,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RCBE",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\RCBE.csproj",
+              "RelativeDocumentMoniker": "RCBE\\RCBE.csproj",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\RCBE.csproj*",
+              "RelativeToolTip": "RCBE\\RCBE.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T05:45:48.187Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\DTO\\LoginModel.cs",
+              "RelativeDocumentMoniker": "RCBE\\DTO\\LoginModel.cs",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\DTO\\LoginModel.cs",
+              "RelativeToolTip": "RCBE\\DTO\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:09:26.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RCBE\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RCBE\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:06:54.733Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -24,8 +113,121 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\DTO\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "RCBE\\DTO\\UpdateUser.cs",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\DTO\\UpdateUser.cs",
+              "RelativeToolTip": "RCBE\\DTO\\UpdateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:42:39.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Helper\\SendMail\\IMailService.cs",
+              "RelativeDocumentMoniker": "RCBE\\Helper\\SendMail\\IMailService.cs",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Helper\\SendMail\\IMailService.cs",
+              "RelativeToolTip": "RCBE\\Helper\\SendMail\\IMailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:41:14.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "RCBE\\Interface\\IUserService.cs",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Interface\\IUserService.cs",
+              "RelativeToolTip": "RCBE\\Interface\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:32:05.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "RCBE\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Controllers\\UserController.cs",
+              "RelativeToolTip": "RCBE\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:30:39.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmailSetting.cs",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\DTO\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "RCBE\\DTO\\EmailSetting.cs",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\DTO\\EmailSetting.cs",
+              "RelativeToolTip": "RCBE\\DTO\\EmailSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:27:14.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MailImpl.cs",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Helper\\SendMail\\Implement\\MailImpl.cs",
+              "RelativeDocumentMoniker": "RCBE\\Helper\\SendMail\\Implement\\MailImpl.cs",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Helper\\SendMail\\Implement\\MailImpl.cs",
+              "RelativeToolTip": "RCBE\\Helper\\SendMail\\Implement\\MailImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:21:39.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserImpl.cs",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Interface\\Implements\\UserImpl.cs",
+              "RelativeDocumentMoniker": "RCBE\\Interface\\Implements\\UserImpl.cs",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Interface\\Implements\\UserImpl.cs",
+              "RelativeToolTip": "RCBE\\Interface\\Implements\\UserImpl.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAAwL8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:20:33.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "RCBE\\DTO\\UserDTO.cs",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "RCBE\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:18:17.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Program.cs",
+              "RelativeDocumentMoniker": "RCBE\\Program.cs",
+              "ToolTip": "E:\\CSW_306_Project\\BonBrotherRestaurantAndCafe\\RCBE\\RCBE\\Program.cs",
+              "RelativeToolTip": "RCBE\\Program.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAkwIIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:10:30.467Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RCBE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fc1c2a4d93e7b607d1c1c50e86b78d8558eca11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f71f5b73d895ac3a81f721eaa9d8cb97db49008d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RCBE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RCBE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
